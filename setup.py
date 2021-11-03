@@ -10,7 +10,7 @@ USER_NAME = 'gaurav98094'
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.2",
+    version="0.0.3",
     author=f"{USER_NAME}",
     author_email="kandelgaurav7@gmail.com",
     description="Package to implement perceptron learning algorithms.",
